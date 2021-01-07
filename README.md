@@ -32,7 +32,7 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
 <img src="./img/linux-original.svg" alt="linux" width="50" height="50"/>
 <img src="./img/windows8-original.svg" alt="windows10" width="50" height="50"/>
 <img src="./img/wordpress-plain.svg" alt="wordpress" width="50" height="50"/>
-<img src="./img/ilustrator-plain.svg" alt="ilustrator" width="50" height="50"/>
+<img src="./img/illustrator-plain.svg" alt="illustrator" width="50" height="50"/>
 <img src="./img/photoshop-plain.svg" alt="photoshop" width="50" height="50"/>
 
 </p>
