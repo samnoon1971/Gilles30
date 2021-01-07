@@ -59,7 +59,6 @@ Gostaria de me encontrar📫?
   <a>
     <img width = "300px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&layout=compact&theme=material-palenight" />
   </a>
-</p>
-
+  </p>
 </div>
 
