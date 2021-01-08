@@ -14,6 +14,7 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
 <img src="./img/react-original.svg" alt="react" width="50" height="50"/>
 <img src="./img/angularjs-original.svg" alt="angularjs" width="50" height="50"/>
 <img src="./img/ionic-original.svg" alt="ionic" width="50" height="50"/>
+<img src="./img/react-original.svg" alt="rectnative" width="50" height="50"/>
 <img src="./img/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="./img/javascript-original.svg" alt="javascript" width="50" height="50"/>
 <img src="./img/typescript-original.svg" alt="typescript" width="50" height="50"/>
@@ -26,7 +27,6 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
 <img src="./img/git-original.svg" alt="git" width="50" height="50"/>
 <img src="./img/github-original.svg" alt="github" width="50" height="50"/>
 <img src="./img/gitlab-original.svg" alt="gitlab" width="50" height="50"/>
-<img src="./img/react-original.svg" alt="rectnative" width="50" height="50"/>
 <img src="./img/docker-original.svg" alt="docker" width="50" height="50"/>
 <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
 <img src="./img/linux-original.svg" alt="linux" width="50" height="50"/>
