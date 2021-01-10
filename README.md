@@ -1,5 +1,6 @@
 <p align = "left">
-<img src = "https://komarev.com/ghpvc/?username=Gilles30" alt = "Gilles30" />
+  <img src = "https://komarev.com/ghpvc/?username=Gilles30" alt = "Gilles30" />
+</p>
   
 
 ### Hello Dev! 😁🖖🏻👽
@@ -11,30 +12,30 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
 
 <p align="left">
 
-<img src="./img/react-original.svg" alt="react" width="30" height="30"/>
-<img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
-<img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
-<img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
-<img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-<img src="./img/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="./img/typescript-original.svg" alt="typescript" width="30" height="30"/>
-<img src="./img/css3-original.svg" alt="css3"  width="30" height="30"/>
-<img src="./img/sass-original.svg" alt="sass"  width="30" height="30"/>
-<img src="./img/html5-original.svg" alt="html5"  width="30" height="30"/>
-<img src="./img/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-<img src="./img/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-<img src="./img/mysql-original.svg" alt="mysql" width="30" height="30"/>
-<img src="./img/git-original.svg" alt="git" width="30" height="30"/>
-<img src="./img/github-original.svg" alt="github" width="30" height="30"/>
-<img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
-<img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
-<img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
-<img src="./img/linux-original.svg" alt="linux" width="30" height="30"/>
-<img src="./img/windows8-original.svg" alt="windows10" width="30" height="30"/>
-<img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
-<img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
-<img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-
+  <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+  <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
+  <img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
+  <img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="./img/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="./img/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="./img/css3-original.svg" alt="css3"  width="30" height="30"/>
+  <img src="./img/sass-original.svg" alt="sass"  width="30" height="30"/>
+  <img src="./img/html5-original.svg" alt="html5"  width="30" height="30"/>
+  <img src="./img/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+  <img src="./img/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+  <img src="./img/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  <img src="./img/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="./img/github-original.svg" alt="github" width="30" height="30"/>
+  <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
+  <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
+  <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
+  <img src="./img/linux-original.svg" alt="linux" width="30" height="30"/>
+  <img src="./img/windows8-original.svg" alt="windows10" width="30" height="30"/>
+  <img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
+  <img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
+  <img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
+  <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="40" height="40">
 </p>
 
 Gostaria de me encontrar📫?
@@ -52,13 +53,13 @@ Gostaria de me encontrar📫?
       <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
 </p>
 <div>
-  <p>
+ <p>
   <a>
     <img width = "480px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" / >
   </a> 
   <a>
     <img width = "300px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&layout=compact&theme=material-palenight" />
   </a>
-  </p>
+ </p>
 </div>
 
