@@ -5,42 +5,43 @@
  <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
 
 ### Hello Dev! 😁🖖🏻👽
+<p>
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / full-stack development 2019 since 2019 working with frela and personal projects, I am currently a Dev Front-end Jr. in the systems development sector of the Luminae group 💻🖥🖱🔭 💡 🔌, with this new challenge i seek to my develop and learn always, make the most of my mentor's knowledge 🏪🏬. I am passionate about development, the best web technologies 🖥️💻 and mobile 📱 and a good coffee☕, so I created some projects as a front-end (https://github.com/Gilles30?tab=repositories), learning to produce content to help other devs.💬
 
-
-
 In my free time, I like to play games (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful motor (🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕), and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
+</p>
 
+<p>
+  <row>
+    <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
+    <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+    <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
+    <img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
+    <img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+    <img src="./img/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    <img src="./img/typescript-original.svg" alt="typescript" width="30" height="30"/>
+    <img src="./img/css3-original.svg" alt="css3"  width="30" height="30"/>
+    <img src="./img/sass-original.svg" alt="sass"  width="30" height="30"/>
+    <img src="./img/html5-original.svg" alt="html5"  width="30" height="30"/>
+    <img src="./img/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+    <img src="./img/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+    <img src="./img/mysql-original.svg" alt="mysql" width="30" height="30"/>
+    <img src="./img/git-original.svg" alt="git" width="30" height="30"/>
+    <img src="./img/github-original.svg" alt="github" width="30" height="30"/>
+    <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
+    <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
+    <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
+    <img src="./img/linux-original.svg" alt="linux" width="30" height="30"/>
+    <img src="./img/windows8-original.svg" alt="windows10" width="30" height="30"/>
+    <img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
+    <img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
+    <img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
+    <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="40" height="40">
 
-<row>
-  <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
-  <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
-  <img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
-  <img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="./img/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="./img/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="./img/css3-original.svg" alt="css3"  width="30" height="30"/>
-  <img src="./img/sass-original.svg" alt="sass"  width="30" height="30"/>
-  <img src="./img/html5-original.svg" alt="html5"  width="30" height="30"/>
-  <img src="./img/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-  <img src="./img/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-  <img src="./img/mysql-original.svg" alt="mysql" width="30" height="30"/>
-  <img src="./img/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="./img/github-original.svg" alt="github" width="30" height="30"/>
-  <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
-  <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
-  <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
-  <img src="./img/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="./img/windows8-original.svg" alt="windows10" width="30" height="30"/>
-  <img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
-  <img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
-  <img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-  <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="40" height="40">
-
-</row>
+  </row>
+</p>
 
 Gostaria de me encontrar📫?
 
