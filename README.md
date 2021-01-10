@@ -1,11 +1,12 @@
 
 <img align='right' src = "https://komarev.com/ghpvc/?username=Gilles30" alt = "Gilles30" />
 
- <img align='left' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
+  
+ <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
 
 ### Hello Dev! 😁🖖🏻👽
 <p>
- <img align='right' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
+<img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / full-stack development 2019 since 2019 working with frela and personal projects, I am currently a Dev Front-end Jr. in the systems development sector of the Luminae group 💻🖥🖱🔭 💡 🔌, with this new challenge i seek to my develop and learn always, make the most of my mentor's knowledge 🏪🏬. I am passionate about development, the best web technologies 🖥️💻 and mobile 📱 and a good coffee☕, so I created some projects as a front-end (https://github.com/Gilles30?tab=repositories), learning to produce content to help other devs.💬
 
@@ -43,7 +44,7 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
   </row>
 </p>
 
-would you like to meet me?📫?
+Would you like to meet me?📫?
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
