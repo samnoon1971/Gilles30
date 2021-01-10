@@ -59,16 +59,6 @@ Gostaria de me encontrar📫?
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
 </a>
 <br>
-<script>
-  function Mudarestado(el) {
-          var display = document.getElementById(el).style.display;
-          if(display == "none")
-              document.getElementById(el).style.display = 'block';
-          else
-              document.getElementById(el).style.display = 'none';
-      }
-</script>
-<button type="button" onclick="Mudarestado('minhaDiv')">View State >></button>
 <div id="minhaDiv">
   <a>
     <img width = "480px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
