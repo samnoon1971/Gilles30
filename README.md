@@ -63,7 +63,7 @@ Gostaria de me encontrar📫?
     <img width = "480px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
   </a> 
   <a>
-    <img width = "420px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&layout=compact&theme=material-palenight" />
+    <img width = "360px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&layout=compact&theme=material-palenight" />
   </a>
 </div> 
 
