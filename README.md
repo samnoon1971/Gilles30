@@ -33,11 +33,6 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
     <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
     <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
     <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
-    <img src="./img/linux-original.svg" alt="linux" width="30" height="30"/>
-    <img src="./img/windows8-original.svg" alt="windows10" width="30" height="30"/>
-    <img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
-    <img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
-    <img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
     <p align="center">
       <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="100" height="100">
     </p>
