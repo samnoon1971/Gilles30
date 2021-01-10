@@ -38,8 +38,9 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
     <img src="./img/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
     <img src="./img/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
     <img src="./img/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-    <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="40" height="40">
-
+    <p align="center">
+      <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="100" height="100">
+    </p>
   </row>
 </p>
 
