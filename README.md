@@ -39,7 +39,7 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
   </row>
 </p>
 
-Would you like to meet me?📫?
+Would you like to meet me?📫
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
