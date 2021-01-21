@@ -48,6 +48,7 @@ Would you like to meet me?📫
 <a aria-label="Completed" href="https://app.rocketseat.com.br/me/lorison-gilles-02226">
   <img src="https://img.shields.io/badge/Profile%20RocketSeat-GoStack%2013.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
 </a>
+
 <a href="Https://api.whatsapp.com/send?phone=55+11+959409168&text=Hello!">
     <img alt="Lorison Gilles" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
 </a>
