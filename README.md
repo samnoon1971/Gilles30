@@ -56,7 +56,9 @@ Would you like to meet me?📫
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
 </a>
 <br>
+
 <div id="minhaDiv">
+  
   <a>
     <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
   </a> 
