@@ -56,6 +56,7 @@ Would you like to meet me?📫
 <a href="mailto: lorison.gilles @ gmail. com">
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
 </a>
+
 <br>
 
 <div id="minhaDiv">
