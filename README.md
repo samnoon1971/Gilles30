@@ -55,10 +55,12 @@ Would you like to meet me?📫
 <a href="Https://api.whatsapp.com/send?phone=55+11+959409168&text=Hello!">
     <img alt="Lorison Gilles" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
 </a>
+
 <a href="mailto: lorison.gilles @ gmail. com">
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
 </a>
 
+<br>
 <br>
 
 <div id="minhaDiv">
