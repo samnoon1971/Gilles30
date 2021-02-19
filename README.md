@@ -14,7 +14,6 @@ My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / f
 In my free time, I like to play games (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful motor (🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕), and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
 </p>
  
- 
 <p>
   <row>
     <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
