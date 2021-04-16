@@ -41,7 +41,6 @@ In my free time, I like to play games (👾) (🎮), practice shotokan karate (�
       <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="100" height="100">
     </p> -->
   </row>
-  
 </p>
 
 Would you like to meet me?📫
