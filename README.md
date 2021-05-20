@@ -10,9 +10,9 @@
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
 
-My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / full-stack development since 2019 working with frela and personal projects, I am currently a Dev Front-end Jr. in the systems development sector of the Luminae group 💻🖥🖱🔭 💡 🔌, with this new challenge i seek to my develop and learn always, make the most of my mentor's knowledge 🏪🏬. I am passionate about development, the best web technologies 🖥️💻 and mobile 📱 and a good coffee☕, so I created some projects as a front-end [repositories](https://github.com/Gilles30?tab=repositories), learning to produce content to help other devs.💬
+My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / full-stack development since 2019 working with frela and personal projects, currently I am Dev Full-Stack. in the consultancy sector in systems development and technology implementation at Avanade 💻🖥🖱 💡, with this new challenge I try to develop and always learn, making the most of the knowledge of my mentors 🏪🏬. I am passionate about development, the best web technologies 🖥️💻 and mobile 📱 and good coffee☕, so I created some projects as a front-end [repositories] (https://github.com/Gilles30?tab=repositories), learn to produce content to help other developers💬
 
-In my free time, I like to play games (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful motor (🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕), and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
+In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful engine ( 🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕) and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
 </p>
  
  
